@@ -1,0 +1,1 @@
+This is a template that can be used directly including react, react-redux, react-router, typescript, etc.
